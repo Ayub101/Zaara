@@ -181,3 +181,5 @@ while a != 0:
 
 speaker.say("closing Virtual assistant zaaraa")
 speaker.runAndWait()
+exit(0)
+
